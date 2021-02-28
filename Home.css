@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+#homeScreen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
